@@ -2,6 +2,8 @@
 
 Preventive care that works around you.
 
+**Live prototype:** https://drenosh.github.io/workwell-prototype/
+
 WorkWell is a concept for a hybrid preventive-care access and care-navigation service for working adults, supported by technology. This repository holds the clickable prototype built for a Product Management MTA project on preventive care for working adults.
 
 **Project team:** Dr. Enosh, Dr. Vaishnavi, Praharshitha
@@ -24,7 +26,7 @@ A booking or referral change made in the worker app shows up in the care team co
 
 ## Run it
 
-No build step and no dependencies. Open `index.html` in a browser, or use the GitHub Pages link on this repository. It works at phone, tablet and desktop widths, in light and dark mode. Google Fonts are loaded from the web, and the page falls back to system fonts offline.
+No build step and no dependencies. Open `index.html` in a browser, or use the live link above. It works at phone, tablet and desktop widths, in light and dark mode. Google Fonts are loaded from the web, and the page falls back to system fonts offline.
 
 ## Please read before using
 
